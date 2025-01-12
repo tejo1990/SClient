@@ -1,0 +1,14 @@
+D:\Csharp\SClient\bin\Debug\net8.0\SClient.exe
+D:\Csharp\SClient\bin\Debug\net8.0\SClient.deps.json
+D:\Csharp\SClient\bin\Debug\net8.0\SClient.runtimeconfig.json
+D:\Csharp\SClient\bin\Debug\net8.0\SClient.dll
+D:\Csharp\SClient\bin\Debug\net8.0\SClient.pdb
+D:\Csharp\SClient\obj\Debug\net8.0\SClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\SClient\obj\Debug\net8.0\SClient.AssemblyInfoInputs.cache
+D:\Csharp\SClient\obj\Debug\net8.0\SClient.AssemblyInfo.cs
+D:\Csharp\SClient\obj\Debug\net8.0\SClient.csproj.CoreCompileInputs.cache
+D:\Csharp\SClient\obj\Debug\net8.0\SClient.dll
+D:\Csharp\SClient\obj\Debug\net8.0\refint\SClient.dll
+D:\Csharp\SClient\obj\Debug\net8.0\SClient.pdb
+D:\Csharp\SClient\obj\Debug\net8.0\SClient.genruntimeconfig.cache
+D:\Csharp\SClient\obj\Debug\net8.0\ref\SClient.dll
